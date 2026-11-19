@@ -18,6 +18,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DhairyaSharma87/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DhairyaSharma87/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/DhairyaSharma87/DSA/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/DhairyaSharma87/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0048-rotate-image](https://github.com/DhairyaSharma87/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DhairyaSharma87/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/DhairyaSharma87/DSA/tree/master/0189-rotate-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/DhairyaSharma87/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Greedy
 |  |
 | ------- |
